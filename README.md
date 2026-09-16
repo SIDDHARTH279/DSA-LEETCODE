@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SIDDHARTH279/DSA-LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SIDDHARTH279/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/SIDDHARTH279/DSA-LEETCODE/tree/master/0713-subarray-product-less-than-k) |
+| [1552-magnetic-force-between-two-balls](https://github.com/SIDDHARTH279/DSA-LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 ## Two Pointers
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SIDDHARTH279/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/SIDDHARTH279/DSA-LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 ## String
 |  |
 | ------- |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/SIDDHARTH279/DSA-LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0981-time-based-key-value-store](https://github.com/SIDDHARTH279/DSA-LEETCODE/tree/master/0981-time-based-key-value-store) |
+| [1552-magnetic-force-between-two-balls](https://github.com/SIDDHARTH279/DSA-LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 ## Sliding Window
 |  |
 | ------- |
